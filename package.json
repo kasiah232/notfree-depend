@@ -15,5 +15,10 @@
     "url": "https://github.com/test46konto/my-projekt-node/issues"
   },
   "homepage": "https://github.com/test46konto/my-projekt-node#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "async": "3.2.6",
+    "chai": "0.0.0-development",
+    "moment": "2.30.1"
+  }
 }
